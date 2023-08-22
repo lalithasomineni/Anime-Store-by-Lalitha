@@ -1,0 +1,11 @@
+. password hashing for register   +++++++
+. password comparing          ++++++
+. jwt authentication  ++++ middleware  ++++ 
+. update route     ++++++
+. anime model      ++++
+. anime route
+     . post
+     . get
+     . getbyid
+. order model     userid animeid paymentmethod 
+
